@@ -1,0 +1,2 @@
+# ignore all build files
+./boost_asio/build/*
